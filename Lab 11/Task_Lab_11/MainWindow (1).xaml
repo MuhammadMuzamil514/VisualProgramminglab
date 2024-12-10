@@ -1,0 +1,21 @@
+﻿<Window x:Class="WPFComboBoxControl.BringBackPocoyo"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="BringBackPocoyo" Height="300" Width="410">
+    <Border BorderBrush="Black" BorderThickness="2" Padding="10">
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Border BorderBrush="Blue" BorderThickness="5" Background="LightBlue">
+                <Image Source="file:///C:/Users/233566/Downloads/k2%201.jpg" Width="100" Height="100"
+                       HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            </Border>
+            <Border BorderBrush="Blue" BorderThickness="5" Background="LightBlue">
+                <Image Source="file:///C:/Users/233566/Downloads/k2%202.jpg" Width="100" Height="100"
+                       HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            </Border>
+            <Border BorderBrush="Blue" BorderThickness="5" Background="LightBlue">
+                <Image Source="file:///C:/Users/233566/Downloads/k2%203.jpg" Width="100" Height="100"
+                       HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            </Border>
+        </StackPanel>
+    </Border>
+</Window>
